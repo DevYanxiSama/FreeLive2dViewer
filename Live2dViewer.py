@@ -15,7 +15,7 @@ class EditTool(QMainWindow):
         super().__init__()
 
         self.resize(1500, 1000)
-        self.setWindowTitle("live2d 编辑器    by:PVP_yanxi  使用到了开源项目:live2d-py   严禁商用此软件")
+        self.setWindowTitle("live2d 查看器    by:PVP_yanxi  使用到了开源项目:live2d-py   严禁商用此软件")
         self.centerWidget = QWidget()
         self.setCentralWidget(self.centerWidget)
 
@@ -238,3 +238,4 @@ if __name__ == '__main__':
         app.exec_()
     except Exception as e:
         print(f"{e}\n{tb.format_exc()}")
+
