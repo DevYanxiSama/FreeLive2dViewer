@@ -1,5 +1,7 @@
 # FreeLive2dViewer
 一个开源且免费的Live2d查看器
+严禁商用!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+如有bug可提交issue
 
 # 使用到的开源项目
 - **https://github.com/EasyLive2D/live2d-py**
