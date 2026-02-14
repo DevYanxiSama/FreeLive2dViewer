@@ -1,11 +1,18 @@
 # FreeLive2dViewer
 一个开源且免费的Live2d查看器
 
-#使用到的开源项目
+# 使用到的开源项目
 - **https://github.com/EasyLive2D/live2d-py**
 **此项目基于 live2d-py 项目诞生**
 
-#演示
+# 开始
+```bash
+# 安装依赖
+$ pip install -r requirements.txt
+$ python Live2dViewer.py
+```
+
+# 演示
 
 - **竖着大拇指的雪莉** -
 <img width="924" height="924" alt="ba34d685022837f55f931315053720e6" src="https://github.com/user-attachments/assets/d397f797-1ac1-4179-bce8-a0a2da923f2e" />
