@@ -1,3 +1,4 @@
-PyQt5==5.15.9
-PyOpenGL==3.1.6
-live2d==0.3.2
+live2d_py==0.6.0.1
+PyOpenGL==3.1.10
+PyQt5==5.15.11
+PyQt5_sip==12.17.0
